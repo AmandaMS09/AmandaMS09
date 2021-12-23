@@ -1,6 +1,6 @@
 ### Olá, esse é o meu perfil 👋
 
-<p>Meu nome é Amanda Moura, futura desenvolvedora back-end e atual estudante da PUC-MG em Engenharia de Software.</p>
+<p>Meu nome é Amanda Moura, futura desenvolvedora back-end e atual estudante de Engenharia de Software na PUC-MG.</p>
 <p>Aqui posto meus projetos e marco meu aprendizado. Fique a vontade para dar uma olhada.</p>
 
 <div>
