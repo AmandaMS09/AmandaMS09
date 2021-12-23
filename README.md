@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, esse é o meu perfil 👋
 
-<!--
-**AmandaMS09/AmandaMS09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Meu nome é Amanda Moura, futura desenvolvedora back-end e atual estudante da PUC-MG em Engenharia de Software.</p>
+<p>Aqui posto meus projetos e marco meu aprendizado. Fique a vontade para dar uma olhada.</p>
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/amandams09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaMS09&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolorentz&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="AmandaHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="AmandaCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="AmandaJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="AmandaMySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="AmandaCSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="AmandaPHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
